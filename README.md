@@ -23,7 +23,9 @@ With properly modeled data, we could now visualize it effectively and uncover va
 
 6. 👷 Attrition by Job Role: Laboratory Technicians had the highest attrition count of 62, while Research Directors had the lowest at 2.
 
-7. 🌟 Job Satisfaction Matrix: This matrix visualized employee job satisfaction ratings, revealing that Laboratory Technicians were the most dissatisfied with the highest number of 1-star ratings.
+7. Outcome: The data indicates significant attrition issues requiring immediate action. High turnover among Life Sciences employees, 26-35 age group, and newcomers signals onboarding and job fit challenges. Low pay impacts attrition in the 5k salary segment. Dissatisfaction among Laboratory Technicians underscores the need for improved job design and engagement strategies. Leadership must prioritize retention initiatives, revamped onboarding, and culture improvement to foster a committed, satisfied workforce.
+
+8. 🌟 Job Satisfaction Matrix: This matrix visualized employee job satisfaction ratings, revealing that Laboratory Technicians were the most dissatisfied with the highest number of 1-star ratings.
 
 
 
